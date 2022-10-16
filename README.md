@@ -1,2 +1,2 @@
-# Lovebug.tech
-anime (+miraculous) chrome extension character designs that float around ur screen while using chrome
+# lovebug
+Chrome extension with character designs that interact and float around your screen.
